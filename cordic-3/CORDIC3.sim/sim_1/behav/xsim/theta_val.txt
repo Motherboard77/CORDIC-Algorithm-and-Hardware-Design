@@ -1,0 +1,3 @@
+cos_val_radian                   sin_val_radian
+xxxxxxxxxxxxxxxx                          xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx                          xxxxxxxxxxxxxxxx
