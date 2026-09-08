@@ -1,0 +1,67 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+                   0theta=     x,cos_theta=       x,sin_theta=       x
+                   5theta=-29491,cos_theta=       x,sin_theta=       x
+                 179theta=-26215,cos_theta=       x,sin_theta=       x
+                 290theta=-26215,cos_theta= 1048094,sin_theta=   32034
+                 353theta=-22939,cos_theta= 1048094,sin_theta=   32034
+                 527theta=-19663,cos_theta= 1048094,sin_theta=   32034
+                 701theta=-16387,cos_theta= 1048094,sin_theta=   32034
+                 875theta=-13111,cos_theta= 1048094,sin_theta=   32034
+                1049theta= -9835,cos_theta= 1048094,sin_theta=   32034
+                1223theta= -6559,cos_theta= 1048094,sin_theta=   32034
+                1397theta= -3283,cos_theta= 1048094,sin_theta=   32034
+                1571theta=    -7,cos_theta= 1048094,sin_theta=   32034
+                1745theta=  3269,cos_theta= 1048094,sin_theta=   32034
+                1919theta=  6545,cos_theta= 1048094,sin_theta=   32034
+                2030theta=  6545,cos_theta=  603225,sin_theta=  857687
+                2093theta=  9821,cos_theta=  603225,sin_theta=  857687
+                2267theta= 13097,cos_theta=  603225,sin_theta=  857687
+                2441theta= 16373,cos_theta=  603225,sin_theta=  857687
+                2615theta= 19649,cos_theta=  603225,sin_theta=  857687
+                2789theta= 22925,cos_theta=  603225,sin_theta=  857687
+                2963theta= 26201,cos_theta=  603225,sin_theta=  857687
+                3137theta= 29477,cos_theta=  603225,sin_theta=  857687
+                3311theta= 32753,cos_theta=  603225,sin_theta=  857687
+                3485theta=-29507,cos_theta=  603225,sin_theta=  857687
+                3659theta=-26231,cos_theta=  603225,sin_theta=  857687
+                3770theta=-26231,cos_theta= 1048094,sin_theta=   32034
+                3833theta=-22955,cos_theta= 1048094,sin_theta=   32034
+                4007theta=-19679,cos_theta= 1048094,sin_theta=   32034
+                4181theta=-16403,cos_theta= 1048094,sin_theta=   32034
+                4355theta=-13127,cos_theta= 1048094,sin_theta=   32034
+                4529theta= -9851,cos_theta= 1048094,sin_theta=   32034
+                4703theta= -6575,cos_theta= 1048094,sin_theta=   32034
+                4877theta= -3299,cos_theta= 1048094,sin_theta=   32034
+                5051theta=   -23,cos_theta= 1048094,sin_theta=   32034
+                5225theta=  3253,cos_theta= 1048094,sin_theta=   32034
+                5399theta=  6529,cos_theta= 1048094,sin_theta=   32034
+                5510theta=  6529,cos_theta=  603225,sin_theta=  857687
+                5573theta=  9805,cos_theta=  603225,sin_theta=  857687
+                5747theta= 13081,cos_theta=  603225,sin_theta=  857687
+                5921theta= 16357,cos_theta=  603225,sin_theta=  857687
+                6095theta= 19633,cos_theta=  603225,sin_theta=  857687
+                6269theta= 22909,cos_theta=  603225,sin_theta=  857687
+                6443theta= 26185,cos_theta=  603225,sin_theta=  857687
+                6617theta= 29461,cos_theta=  603225,sin_theta=  857687
+                6791theta= 32737,cos_theta=  603225,sin_theta=  857687
+                6965theta=-29523,cos_theta=  603225,sin_theta=  857687
+                7139theta=-26247,cos_theta=  603225,sin_theta=  857687
+                7250theta=-26247,cos_theta= 1048094,sin_theta=   32034
+                7313theta=-22971,cos_theta= 1048094,sin_theta=   32034
+                7487theta=-19695,cos_theta= 1048094,sin_theta=   32034
+                7661theta=-16419,cos_theta= 1048094,sin_theta=   32034
+                7835theta=-13143,cos_theta= 1048094,sin_theta=   32034
+                8009theta= -9867,cos_theta= 1048094,sin_theta=   32034
+                8183theta= -6591,cos_theta= 1048094,sin_theta=   32034
+                8357theta= -3315,cos_theta= 1048094,sin_theta=   32034
+                8531theta=   -39,cos_theta= 1048094,sin_theta=   32034
+                8705theta=  3237,cos_theta= 1048094,sin_theta=   32034
+                8879theta=  6513,cos_theta= 1048094,sin_theta=   32034
+                8990theta=  6513,cos_theta=  603225,sin_theta=  857687
+                9053theta=  9789,cos_theta=  603225,sin_theta=  857687
+                9227theta= 13065,cos_theta=  603225,sin_theta=  857687
+                9401theta= 16341,cos_theta=  603225,sin_theta=  857687
+                9575theta= 19617,cos_theta=  603225,sin_theta=  857687
+                9749theta= 22893,cos_theta=  603225,sin_theta=  857687
+                9923theta= 26169,cos_theta=  603225,sin_theta=  857687
