@@ -1,16 +1,3 @@
-<p align="center">
-	<img src="assets/profile-circuit.svg" alt="Animated ALIP MAJUMDAR VLSI and CORDIC hardware banner" width="100%" />
-</p>
-
-<p align="center">
-	<img src="assets/motherboard77-avatar.png" alt="Motherboard77 GitHub avatar" width="96" height="96" />
-</p>
-
-<p align="center">
-	<strong>Mtech(R), VLSI, IIT Mandi</strong><br />
-	Hardware experiments from CORDIC arithmetic to pipelined RTL.
-</p>
-
 # CORDIC Algorithm and Hardware Design
 
 This repository collects several generations of a hardware CORDIC (COordinate
